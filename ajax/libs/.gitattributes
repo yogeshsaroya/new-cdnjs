@@ -1,0 +1,13 @@
+*.css filter=lfs -crlf
+*.js filter=lfs -crlf
+*.map filter=lfs -crlf
+*.png filter=lfs -crlf
+*.svg filter=lfs -crlf
+*.eot filter=lfs -crlf
+*.woff filter=lfs -crlf
+*.woff2 filter=lfs -crlf
+*.otf filter=lfs -crlf
+*.gif filter=lfs -crlf
+*.ttf filter=lfs -crlf
+*.swf filter=lfs -crlf
+*.jpg filter=lfs -crlf
